@@ -3,7 +3,7 @@
 
 
 ## Olá e bem-vindo! Eu sou o Ricardo Santos
-#####  Instagram [@santosqa_](https://www.instagram.com/santosqa_/) 👋
+###  Instagram [@santosqa_](https://www.instagram.com/santosqa_/) 👋
 
 Analista de Testes - QA | Apaixonado por Qualidade de Software que impactam positivamente a vida de milhões de pessoas!
 
@@ -15,11 +15,12 @@ Como profissional de QA experiente, com atuação em todas as fases do ciclo de 
 
 Minha experiência abrange metodologias tradicionais (cascata/procedural) e ágeis (Scrum/Kanban), e já atuei em diversos setores:
 
+```note
 Sistemas Médicos (Pixeon)
 Medicina diagnóstica por imagem (WTT)
 Instituições Financeiras (Keeggo | Santander, Itaú Unibanco)
 E-commerce (Jüssi | Whirlpool - Direto na Loja, colab, Compra Certa, Brastemp, Consul)
-
+```
 
 ###
 ##### Aqui você encontrará exemplos de códigos que desenvolvi para treinar e compartilhar.
