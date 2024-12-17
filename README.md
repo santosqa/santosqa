@@ -26,6 +26,9 @@ E-commerce (Jüssi | Whirlpool - Direto na Loja, colab, Compra Certa, Brastemp, 
 ##### Aqui você encontrará exemplos de códigos que desenvolvi para treinar e compartilhar.
 ##
 
+<a href="https://app.rocketseat.com.br/me/santosqa"><img src="https://ftr.rocketseat.com.br/api/rocketid/share?slug=santosqa&type=card" width="280" alt="Ricardo Santos's Rocket ID"/></a>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosqa&hide=TeX&layout=compact)
 ###
 
