@@ -1,31 +1,30 @@
-<a href="https://santosqa.github.io" target="_blank" rel="noopener noreferrer" aria-label="Santos Links - Página de Links SantosQA" title="Projeto Santos Links">
-  <img src="https://img.shields.io/badge/GitHub-Projeto%20Santos%20Links-%23FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Badge do Projeto Santos Links">
-</a>
+<div onclick="window.open('https://santosqa.github.io', '_blank');" style="cursor: pointer; display: inline-block;">
+  <img src="https://img.shields.io/badge/GitHub-Projeto%20Santos%20Links-%23FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Badge do Projeto Santos Links" title="Projeto Santos Links">
+</div>
 
-<a href="https://github.com/santosqa" target="_blank" rel="noopener noreferrer" aria-label="Perfil SantosQA no GitHub" title="GitHub About.me">
-  <img src="https://img.shields.io/badge/GitHub-About.me-%2350fa7b?style=for-the-badge&logo=github&logoColor=white" alt="Badge do GitHub About.me">
-</a>
+<div onclick="window.open('https://github.com/santosqa', '_blank');" style="cursor: pointer; display: inline-block;">
+  <img src="https://img.shields.io/badge/GitHub-About.me-%2350fa7b?style=for-the-badge&logo=github&logoColor=white" alt="Badge do GitHub About.me" title="GitHub About.me">
+</div>
 
-<a href="https://www.linkedin.com/in/santosqa" target="_blank" rel="noopener noreferrer" aria-label="Perfil do LinkedIn SantosQA" title="LinkedIn">
-  <img src="https://img.shields.io/badge/>-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge do LinkedIn">
-</a>
+<div onclick="window.open('https://www.linkedin.com/in/santosqa', '_blank');" style="cursor: pointer; display: inline-block;">
+  <img src="https://img.shields.io/badge/>-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge do LinkedIn" title="LinkedIn">
+</div>
 
-<a href="https://www.instagram.com/santosqa_/" target="_blank" rel="noopener noreferrer" aria-label="Perfil do Instagram SantosQA" title="Instagram">
-  <img src="https://img.shields.io/badge/>-instagram-%23ff5555.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Badge do Instagram">
-</a>
+<div onclick="window.open('https://www.instagram.com/santosqa_/', '_blank');" style="cursor: pointer; display: inline-block;">
+  <img src="https://img.shields.io/badge/>-instagram-%23ff5555.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Badge do Instagram" title="Instagram">
+</div>
 
-<a href="https://www.santosqa.com" target="_blank" rel="noopener noreferrer" aria-label="Site Santos QA " title="Santos QA">
-  <img src="https://img.shields.io/badge/www-santosqa.com-%23bd93f9.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Badge do site Santos QA">
-</a>
+<div onclick="window.open('https://www.santosqa.com', '_blank');" style="cursor: pointer; display: inline-block;">
+  <img src="https://img.shields.io/badge/www-santosqa.com-%23bd93f9.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Badge do site Santos QA" title="Santos QA">
+</div>
 
-<a href="https://www.apartamentovistamar.com/" target="_blank" rel="noopener noreferrer" aria-label="Site Apartamento Vista Mar" title="Apartamento Vista Mar">
-  <img src="https://img.shields.io/badge/www-ApartamentoVistaMar.com-%238be9fd.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge do site Apartamento Vista Mar">
-</a>
+<div onclick="window.open('https://www.apartamentovistamar.com/', '_blank');" style="cursor: pointer; display: inline-block;">
+  <img src="https://img.shields.io/badge/www-ApartamentoVistaMar.com-%238be9fd.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge do site Apartamento Vista Mar" title="Apartamento Vista Mar">
+</div>
 
-<a href="https://santosqa.github.io/receitas/" target="_blank" rel="noopener noreferrer" aria-label="Projeto Receitas no GitHub " title="Projeto Receitas">
-  <img src="https://img.shields.io/badge/GitHub-Projeto%20Receitas-%23ffb86c?style=for-the-badge&logo=github&logoColor=white" alt="Badge do Projeto Receitas">
-</a>
-
+<div onclick="window.open('https://santosqa.github.io/receitas/', '_blank');" style="cursor: pointer; display: inline-block;">
+  <img src="https://img.shields.io/badge/GitHub-Projeto%20Receitas-%23ffb86c?style=for-the-badge&logo=github&logoColor=white" alt="Badge do Projeto Receitas" title="Projeto Receitas">
+</div>
 
 ## Olá e bem-vindo! Eu sou o Ricardo Santos
 ###  Instagram [@santosqa_](https://www.instagram.com/santosqa_/) 👋
